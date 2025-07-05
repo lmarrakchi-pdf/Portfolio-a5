@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "Nour Bakhti Marrakchi | Marketing Strategist",
+    "description": "Portfolio website showcasing marketing strategy and personal branding expertise"
+  },
+  "personal": {
+    "name": "Nour Bakhti Marrakchi",
+    "title": "Marketing Strategist",
+    "location": "Tanger, Maroc",
+    "avatar": "/nour-profile.png",
+    "email": "nourbakhtim@gmail.com",
+    "phone": "+212 6 04 05 23 30",
+    "workingHours": "Lundi - Samedi, 9h - 18h",
+    "availableForWork": true,
+    "badges": ["Personal Branding", "Content Strategy", "IA & Growth"],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "#",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/100x-nour/",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "#",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "#",
+        "icon": "Instagram"
+      },
+      {
+        "platform": "WhatsApp",
+        "url": "https://wa.me/212604052330?text=Bonjour%20Nour,%20je%20souhaite%20discuter%20d'un%20projet%20de%20marketing%20digital.",
+        "icon": "MessageCircle"
+      }
+    ]
+  },
+  "about": {
+    "bio": "Responsable marketing passionné par le personal branding, les systèmes de croissance et l'automatisation. Je conçois et implémente des stratégies de contenu puissantes pour les CEO, fondateurs et studios digitaux. Mon objectif : connecter l'humain et la technologie, amplifier la valeur perçue, et accélérer la conversion.",
+    "focus": [
+      "Brand strategy & storytelling structuré",
+      "Création de systèmes de contenu scalable",
+      "Positionnement haut de gamme pour les décideurs",
+      "Automatisation IA & growth tools"
+    ],
+    "languages": [
+      {
+        "name": "Français",
+        "proficiency": "Natif",
+        "level": 100,
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Arabe",
+        "proficiency": "Natif",
+        "level": 100,
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Anglais",
+        "proficiency": "Courant",
+        "level": 85,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Español",
+        "proficiency": "Intermédiaire",
+        "level": 60,
+        "flag": "🇪🇸"
+      }
+    ],
+    "interests": ["Personal Branding", "IA & Automatisation", "Growth Marketing", "Content Strategy", "Storytelling"]
+  },
+  "navigation": [
+    {
+      "label": "Accueil",
+      "href": "/"
+    },
+    {
+      "label": "Expérience",
+      "href": "#experience"
+    },
+    {
+      "label": "Compétences",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projets",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Responsable Marketing",
+      "company": "Mooroot Studio",
+      "period": "Avril 2024 – Présent",
+      "location": "Tanger, Sur site",
+      "description": "Mise en place de la stratégie et de l'écosystème marketing de Mooroot Studio (positionnement, ton, style de communication, présence), à destination des moyennes et grandes entreprises marocaines.",
+      "achievements": [
+        "Construction d'un site web \"solution-centric\" avec une vision claire pour le marché local",
+        "Élaboration d'une stratégie multi-niveaux (Awareness, Authority, Engagement, Conversion) en ligne",
+        "Repositionnement global de la marque et de ses produits digitaux",
+        "Création d'une offre d'accompagnement premium : automatisation IA, refonte produit, pilotage growth"
+      ],
+      "technologies": ["Notion", "Figma", "Framer", "Zapier", "ChatGPT", "Xmind", "Prompt Engineering"]
+    },
+    {
+      "title": "Growth Strategist B2B",
+      "company": "Des Bras en Plus",
+      "period": "2023 – 2024",
+      "location": "Freelance, Remote",
+      "description": "Prise en charge complète de la stratégie de contenu et de croissance B2B via LinkedIn. Déploiement de mini-séries et conception d'une ligne éditoriale orientée objectifs Business.",
+      "achievements": [
+        "Mise en place d'une stratégie LinkedIn orientée résultats pour le secteur logistique B2B",
+        "Rédaction et publication de contenus professionnels cohérents avec l'image de marque",
+        "Campagnes outbound personnalisées, génération de leads qualifiés via LinkedIn",
+        "Renforcement du positionnement de l'entreprise dans son secteur",
+        "Génération de conversations commerciales organiques",
+        "Validation de modèles de croissance no-code à impact direct"
+      ],
+      "technologies": ["LinkedIn", "UX Design", "Community Management"]
+    },
+    {
+      "title": "Stratégiste LinkedIn & Personal Branding",
+      "company": "Freelance",
+      "period": "2024 – Présent",
+      "location": "Remote",
+      "description": "Accompagnement de CEO, fondateurs et experts techniques dans la construction de leur présence stratégique sur LinkedIn. Méthodologie propriétaire : Stratégie 100x (un seul sujet → 100 contenus utiles & cohérents).",
+      "achievements": [
+        "Création de frameworks éditoriaux ultra-ciblés pour chaque profil (ICP)",
+        "+300K impressions organiques générées en 3 mois pour les comptes clients",
+        "Génération de leads qualifiés dès les 30 premiers jours",
+        "Stratégie éditoriale mêlant storytelling narratif, CTA implicites et autorité sectorielle"
+      ],
+      "technologies": ["Notion", "LinkedIn", "Canva", "ChatGPT", "Storytelling narratif", "Growth mindset"]
+    },
+    {
+      "title": "Content & Copy Assistant",
+      "company": "Promy France",
+      "period": "2019 – 2023",
+      "location": "Freelance, Remote",
+      "description": "Collaboration avec l'équipe créative de Promy pour piloter des campagnes publicitaires cross-canal à fort impact, du digital à la TV.",
+      "achievements": [
+        "Réécriture de textes web selon les objectifs marketing et phases de campagne",
+        "Création de variantes A/B pour plateformes digitales",
+        "Coordination avec designers et stratèges pour garantir la cohérence de marque",
+        "Contribution à une campagne télévisée nationale",
+        "Une de mes copies sélectionnée pour une pub TV nationale — passage symbolique du digital au broadcast"
+      ],
+      "technologies": ["Copywriting", "A/B Testing", "Cross-channel Marketing", "Brand Consistency"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Certified UX Professional",
+        "issuer": "Nielsen Norman Group",
+        "date": "2022",
+        "logo": "/nng-logo.png"
+      },
+      {
+        "name": "Professional Product Designer",
+        "issuer": "Interaction Design Foundation",
+        "date": "2021",
+        "logo": "/generic-military-logo.png"
+      },
+      {
+        "name": "Design Leadership Certification",
+        "issuer": "IDEO",
+        "date": "2020",
+        "logo": "/ideo-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Licence en Géotechnologies Appliquées",
+        "institution": "FST Tanger",
+        "year": "2016",
+        "logo": "/generic-art-school-logo.png"
+      }
+    ],
+    "skills": [
+      "Personal Branding",
+      "Content Strategy",
+      "Marketing Automation",
+      "Growth Hacking",
+      "Storytelling",
+      "IA & Prompt Engineering",
+      "Social Media Strategy",
+      "Brand Positioning"
+    ]
+  },
+  "technicalSkills": {
+    "design": ["Figma", "Canva Pro", "Adobe Creative Suite", "Framer", "Notion", "Airtable"],
+    "development": ["HTML/CSS", "Webflow", "WordPress", "No-Code Tools", "Automation"],
+    "uxMethods": [
+      "Content Strategy",
+      "Brand Positioning",
+      "User Journey Mapping",
+      "Conversion Optimization",
+      "A/B Testing",
+      "Analytics"
+    ],
+    "softSkills": ["Leadership éditorial", "Communication assertive", "Esprit de synthèse", "Clarté stratégique"]
+  }
+}
