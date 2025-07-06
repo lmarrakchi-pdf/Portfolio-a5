@@ -58,16 +58,19 @@ export default function ProjectPage({ params }: ProjectPageProps) {
                   fill
                   className="object-cover"
                 />
-                <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent"></div>
-                <div className="absolute bottom-0 left-0 p-4 sm:p-6">
-                  <div className="text-xs sm:text-sm mb-1 sm:mb-2" style={{ color: "#f3edb9" }}>
-                    {project.category}
-                  </div>
-                  <h1 className="text-xl sm:text-3xl md:text-4xl font-bold">{project.title}</h1>
-                  <p className="text-sm text-zinc-400 mt-1 sm:mt-2 max-w-2xl">{project.shortDescription}</p>
-                </div>
               </div>
             </Card>
+            <div className="mt-4 mb-2 px-2 sm:px-4">
+              <div className="text-xs sm:text-sm mb-1 sm:mb-2" style={{ color: "#f3edb9" }}>
+                {project.category}
+              </div>
+              <h1 className="text-2xl sm:text-4xl md:text-5xl font-bold text-white leading-tight">
+                {project.title}
+              </h1>
+              <p className="text-sm text-zinc-400 mt-2 max-w-2xl">
+                {project.shortDescription}
+              </p>
+            </div>
           </AnimatedSection>
 
           {/* Project Content */}
