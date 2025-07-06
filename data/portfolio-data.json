@@ -163,22 +163,58 @@
   "credentials": {
     "certifications": [
       {
-        "name": "Certified UX Professional",
-        "issuer": "Nielsen Norman Group",
-        "date": "2022",
-        "logo": "/nng-logo.png"
+        "name": "Inbound Marketing Certification",
+        "issuer": "HubSpot Academy",
+        "date": "2024",
+        "logo": "/hubspot-logo.svg"
       },
       {
-        "name": "Professional Product Designer",
-        "issuer": "Interaction Design Foundation",
-        "date": "2021",
-        "logo": "/generic-military-logo.png"
+        "name": "Content Marketing Certification",
+        "issuer": "HubSpot Academy",
+        "date": "2024",
+        "logo": "/hubspot-logo.svg"
       },
       {
-        "name": "Design Leadership Certification",
-        "issuer": "IDEO",
-        "date": "2020",
-        "logo": "/ideo-logo.png"
+        "name": "Social Media Strategy Certification",
+        "issuer": "HubSpot Academy",
+        "date": "2024",
+        "logo": "/hubspot-logo.svg"
+      },
+      {
+        "name": "Email Marketing Certification",
+        "issuer": "HubSpot Academy",
+        "date": "2024",
+        "logo": "/hubspot-logo.svg"
+      },
+      {
+        "name": "Fundamentals of Digital Marketing",
+        "issuer": "Google Digital Garage",
+        "date": "2024",
+        "logo": "/google-logo.svg"
+      },
+      {
+        "name": "Google Ads Search Certification",
+        "issuer": "Google Digital Garage",
+        "date": "2024",
+        "logo": "/google-logo.svg"
+      },
+      {
+        "name": "Google Ads Display Certification",
+        "issuer": "Google Digital Garage",
+        "date": "2024",
+        "logo": "/google-logo.svg"
+      },
+      {
+        "name": "Meta Certified Digital Marketing Associate",
+        "issuer": "Meta Blueprint",
+        "date": "2024",
+        "logo": "/meta-logo.svg"
+      },
+      {
+        "name": "Media Planning & Buying",
+        "issuer": "Meta Blueprint",
+        "date": "2024",
+        "logo": "/meta-logo.svg"
       }
     ],
     "education": [

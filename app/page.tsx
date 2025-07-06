@@ -24,45 +24,69 @@ export default function Home() {
     {
       title: "Responsable Marketing",
       company: "Mooroot Studio",
-      period: "2025 - Présent",
-      location: "Casablanca, Remote",
+      period: "2025 – Présent",
+      location: "Tanger, Remote",
       description:
-        "Mise en place complète de l'écosystème marketing de Mooroot Studio (positionnement Microsoft-like) à destination des moyennes et grandes entreprises marocaines.",
+        "Responsable de la stratégie de contenu et de la présence de marque sur LinkedIn pour positionner Mooroot comme un acteur de référence au Maroc.",
       achievements: [
-        'Refonte du site web avec un angle "solution-centric" clair pour le marché marocain',
-        "Construction d'une stratégie de contenu LinkedIn en 4 formats clés (awareness, authority, conversion, engagement)",
-        "Pilotage d'un repositionnement complet de la marque et de ses produits (Pharmanet, TPT, etc.)",
-        "Développement d'une offre d'accompagnement premium (automatisation IA, refonte produit, pilotage growth)",
+        "Définition du positionnement éditorial de la marque : ton, sujets, formats",
+        "Rédaction de contenus stratégiques pour le CEO et les produits (Pharmanet, TPT...)",
+        "Conception d'un calendrier de publications en 4 piliers : visibilité, crédibilité, engagement, conversion",
+        "Création de templates et bibliothèques internes pour faciliter la production de contenu récurrent",
+        "Mise en récit des produits via des posts narratifs et pédagogiques à destination des décideurs",
+        "Suivi des performances des posts (impressions, partages, commentaires, prises de contact)",
+        "Collaboration étroite avec les designers pour garantir la cohérence visuelle des publications",
       ],
-      technologies: ["Notion", "Figma", "Framer", "ChatGPT", "Zapier", "Xmind", "Prompt Engineering"],
+      technologies: ["Notion", "Figma", "ChatGPT", "Zapier", "Framer"],
     },
     {
-      title: "Stratégiste Personal Branding",
+      title: "Growth Strategist B2B",
+      company: "Des Bras en Plus",
+      period: "2023 – 2024",
+      location: "Freelance, Remote",
+      description:
+        "Création et exécution d'une stratégie LinkedIn orientée résultats pour une entreprise B2B dans la logistique.",
+      achievements: [
+        "Audit du positionnement de marque et définition d'une ligne éditoriale cohérente avec l'activité",
+        "Écriture de publications LinkedIn valorisant les coulisses, les savoir-faire et les cas clients",
+        "Déploiement de formats courts pour capter l'attention de décideurs (fondateurs, directeurs logistiques)",
+        "Tests de différents types de posts (opinion, pédagogie, storytelling) pour optimiser la portée",
+      ],
+      technologies: ["LinkedIn", "Notion", "Canva", "Outils no-code"],
+    },
+    {
+      title: "Stratégiste LinkedIn & Personal Branding",
       company: "Freelance",
-      period: "2024 - Présent",
+      period: "2024 – Présent",
       location: "Remote",
       description:
-        "Accompagnement de CEO, fondateurs et leaders dans la construction de leur présence stratégique sur LinkedIn. Méthode propriétaire : Stratégie 100x — transformer un seul sujet en 100 contenus utiles et cohérents.",
+        "Accompagnement sur-mesure de profils de haut niveau pour structurer leur présence sur LinkedIn et renforcer leur crédibilité.",
       achievements: [
-        "Création de frameworks éditoriaux adaptés à chaque ICP (décideurs, experts techniques, fondateurs)",
-        "Résultats : +300K impressions cumulées en 3 mois pour les clients actifs",
-        "Génération de leads B2B organiques pour les clients dès les 30 premiers jours",
+        "Entretiens stratégiques avec chaque client pour identifier les sujets d'expertise à valoriser",
+        "Création de frameworks éditoriaux sur-mesure (voix, formats, angles d'attaque)",
+        "Rédaction de contenus adaptés à leur secteur : tech, design, stratégie, recrutement…",
+        "Application de la méthode 100x : transformer une expertise en 100 idées de contenu cohérent",
+        "Relecture et amélioration de posts écrits par les clients pour maximiser l'impact",
+        "Reporting mensuel : impressions, conversations déclenchées, leads organiques générés",
+        "Résultats notables : +300K impressions organiques en 3 mois pour les comptes actifs, prises de contact qualifiées dès les 30 premiers jours",
       ],
-      technologies: ["LinkedIn", "Notion", "Canva", "ChatGPT", "Storytelling narratif", "Call-to-action implicite"],
+      technologies: ["LinkedIn", "Notion", "ChatGPT", "Canva"],
     },
     {
-      title: "Growth Marketer",
-      company: "Projets personnels & collaborations",
-      period: "2023 - 2024",
-      location: "Remote",
+      title: "Content & Copy Assistant",
+      company: "Promy France",
+      period: "2019 – 2023",
+      location: "Freelance, Remote",
       description:
-        "Pilotage de plusieurs mini-produits no-code autour du contenu, de l'automatisation IA et du branding. Rôle de designer de stratégie : de l'idée au contenu, jusqu'à l'expérience utilisateur.",
+        "Production de contenus marketing à destination du web, avec des interventions ponctuelles sur des campagnes télévisées.",
       achievements: [
-        "Conception d'un SaaS de gestion de personal brand pour créateurs",
-        "Co-conception de pages de vente à fort taux de conversion",
-        'Animation de communautés LinkedIn + lancement d\'une série de contenus "100x"',
+        "Réécriture de textes pour sites web, pages de campagne et supports digitaux",
+        "Création de variantes textuelles A/B pour tester plusieurs angles de communication",
+        "Adaptation des messages à différents canaux tout en conservant une cohérence de ton",
+        "Participation à la conception éditoriale d'une campagne TV (un de mes textes sélectionné)",
+        "Coordination avec les équipes créa pour s'assurer de l'alignement entre texte et design",
       ],
-      technologies: ["No-code", "IA", "Branding", "UX Design", "LinkedIn", "Community Management"],
+      technologies: ["Notion", "ChatGPT", "Outils internes de copywriting"],
     },
   ]
 
@@ -95,83 +119,19 @@ export default function Home() {
                   </div>
 
                   <div className="space-y-6 sm:space-y-8">
-                    <AnimatedSection animation="fade-up" delay={100}>
-                      <ExperienceCard
-                        title="Responsable Marketing"
-                        company="Mooroot Studio"
-                        period="2025 – Présent"
-                        location="Casablanca, Remote"
-                        description="Refonte complète de l'écosystème marketing de Mooroot Studio (positionnement Microsoft-like), à destination des moyennes et grandes entreprises marocaines."
-                        achievements={[
-                          'Construction d\'un site web "solution-centric" avec une vision claire pour le marché local',
-                          "Élaboration d'une stratégie LinkedIn multi-niveaux (Awareness, Authority, Engagement, Conversion)",
-                          "Repositionnement global de la marque et de ses produits stratégiques (Pharmanet, TPT, etc.)",
-                          "Création d'une offre d'accompagnement premium : automatisation IA, refonte produit, pilotage growth",
-                        ]}
-                        technologies={["Notion", "Figma", "Framer", "Zapier", "ChatGPT", "Xmind", "Prompt Engineering"]}
-                      />
-                    </AnimatedSection>
-
-                    <AnimatedSection animation="fade-up" delay={200}>
-                      <ExperienceCard
-                        title="Growth Strategist B2B & SaaS"
-                        company="Des Bras en Plus"
-                        period="2023 – 2024"
-                        location="Freelance, Remote"
-                        description="Prise en charge complète de la stratégie de contenu et de croissance B2B via LinkedIn. Déploiement de mini-produits no-code et conception d'un SaaS dédié à la gestion de marque personnelle."
-                        achievements={[
-                          "Mise en place d'une stratégie LinkedIn orientée résultats pour le secteur logistique B2B",
-                          "Rédaction et publication de contenus professionnels cohérents avec l'image de marque",
-                          "Campagnes outbound personnalisées, génération de leads qualifiés via LinkedIn",
-                          "Conception d'un SaaS pour créateurs de contenu : gestion personal brand & performance",
-                          "Création de pages de vente à fort taux de conversion, animation de communautés stratégiques",
-                          "Impact : Renforcement du positionnement de l'entreprise dans son secteur. Génération de conversations commerciales organiques. Validation de modèles de croissance no-code à impact direct.",
-                        ]}
-                        technologies={["LinkedIn", "No-code", "IA", "UX Design", "Community Management"]}
-                      />
-                    </AnimatedSection>
-
-                    <AnimatedSection animation="fade-up" delay={300}>
-                      <ExperienceCard
-                        title="Stratégiste LinkedIn & Personal Branding"
-                        company="Freelance"
-                        period="2024 – Présent"
-                        location="Remote"
-                        description="Accompagnement de CEO, fondateurs et experts techniques dans la construction de leur présence stratégique sur LinkedIn. Méthodologie propriétaire : Stratégie 100x (un seul sujet → 100 contenus utiles & cohérents)."
-                        achievements={[
-                          "Création de frameworks éditoriaux ultra-ciblés pour chaque profil (ICP)",
-                          "+300K impressions organiques générées en 3 mois pour les comptes clients",
-                          "Génération de leads qualifiés dès les 30 premiers jours",
-                          "Stratégie éditoriale mêlant storytelling narratif, CTA implicites et autorité sectorielle",
-                        ]}
-                        technologies={[
-                          "Notion",
-                          "LinkedIn",
-                          "Canva",
-                          "ChatGPT",
-                          "Storytelling narratif",
-                          "Growth mindset",
-                        ]}
-                      />
-                    </AnimatedSection>
-
-                    <AnimatedSection animation="fade-up" delay={400}>
-                      <ExperienceCard
-                        title="Content & Copy Assistant"
-                        company="Promy France"
-                        period="2019 – 2023"
-                        location="Freelance, Remote"
-                        description="Collaboration avec l'équipe créative de Promy pour piloter des campagnes publicitaires cross-canal à fort impact, du digital à la TV."
-                        achievements={[
-                          "Réécriture de textes web selon les objectifs marketing et phases de campagne",
-                          "Création de variantes A/B pour plateformes digitales",
-                          "Coordination avec designers et stratèges pour garantir la cohérence de marque",
-                          "Contribution à une campagne télévisée nationale",
-                          "Moment fort : Une de mes copies sélectionnée pour une pub TV nationale — passage symbolique du digital au broadcast.",
-                        ]}
-                        technologies={["Copywriting", "A/B Testing", "Cross-channel Marketing", "Brand Consistency"]}
-                      />
-                    </AnimatedSection>
+                    {experienceInfo.map((experience, index) => (
+                      <AnimatedSection key={index} animation="fade-up" delay={100 * (index + 1)}>
+                        <ExperienceCard
+                          title={experience.title}
+                          company={experience.company}
+                          period={experience.period}
+                          location={experience.location}
+                          description={experience.description}
+                          achievements={experience.achievements}
+                          technologies={experience.technologies}
+                        />
+                      </AnimatedSection>
+                    ))}
                   </div>
                 </CardContent>
               </Card>
